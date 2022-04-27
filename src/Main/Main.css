@@ -4,4 +4,5 @@ main {
     background-size: cover;
     height: 90vh;
     align-content: flex-start;
+    margin: 0px;
   }

@@ -1,9 +1,6 @@
-.html, body, root{
-  height: 100%;
-}
-
 .App {
   text-align: center;
+  height: 100vh;
   background-color: rgba(46,52,54,255);
 }
 
@@ -20,7 +17,7 @@
 
 .App-header {
   background-color: #eec617;
-  min-height: 6vh;
+  min-height: 7vh;
   display: flex;
   flex-direction: column;
   align-items: center;
