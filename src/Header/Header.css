@@ -1,0 +1,11 @@
+header {
+    color: #dae810;
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 40px;
+    background-color: #1eadd8;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-family: 'Space and Astronomy';
+  }
